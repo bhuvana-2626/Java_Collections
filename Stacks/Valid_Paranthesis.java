@@ -26,7 +26,7 @@ public class Valid_Paranthesis {
     public static void main(String args[]) {
         String s1 = "{{[(]}}";
         String s2 = "{[]}()";
-        System.out.println("Is s1 valid paranthesis?" + isvalid(s1));
-        System.out.println("Is s2 valid paranthesis?" + isvalid(s2));
+        System.out.println("Is s1 valid paranthesis? " + isvalid(s1));
+        System.out.println("Is s2 valid paranthesis? " + isvalid(s2));
     }
 }
